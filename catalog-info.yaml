@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: JavaVulnerableLabE
+  annotations:
+    github.com/project-slug: cx-anjali-deore/JavaVulnerableLabE
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
